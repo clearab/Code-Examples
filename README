@@ -6,4 +6,14 @@ Boggle Board Package:
 	    board.txt
   Instructions: Ensure that all files are in the same containing folder, compile and run BoggleMain.
 
-
+Media Library Package:
+  Contains: MediaLibrary.java
+   	    MediaLibraryGUI.java
+	       **Note: This was provided as a shell, and was modified. It is not entirely my code.
+  	    DVD.java
+            CD.java
+            CompareTitle.java
+            comparePrice.java
+            MediaLibraryModel.java
+            media.txt
+  Instructions: Similar to above.
