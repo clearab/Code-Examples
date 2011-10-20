@@ -1,0 +1,42 @@
+41
+CD | Come Away With Me | 6.33 | Norah Jones | 4 | 4 | 4
+CD | One Quiet Night | 8.28 | Pat Metheney | 3 | 1 | 0
+CD | The Look of Love | 11.85 | Diana Krall | 1 | 5 | 3
+CD | As Falls Wichita, So Falls Wichita Falls | 7.42 | Pat Metheney | 0 | 3 | 3
+CD | Birth of the Cool | 5.09 | Miles Davis | 4 | 4 | 1
+CD | The OKeh Ellington | 11.09 | Duke Ellington | 4 | 3 | 0
+CD | Sketches of Spain | 11.16 | Miles Davis | 2 | 0 | 5
+CD | Kind of Blue | 16.17 | Miles Davis | 5 | 2 | 1
+CD | This Side | 17.49 | Nickel Creek | 1 | 5 | 4
+CD | Time Out | 9.14 | Dave Brubeck | 0 | 3 | 0
+CD | Glow | 7.89 | The Innocence Mission | 4 | 4 | 3
+CD | Heavier Things | 6.20 | John Mayer | 3 | 3 | 4
+CD | Room For Squares | 7.65 | John Mayer | 3 | 2 | 1
+CD | A Rush of Blood to the Head | 11.14 | Coldplay | 2 | 2 | 5
+CD | Charlie Brown's Holiday Hits | 6.69 | Vince Guaraldi | 1 | 4 | 3
+CD | A Day Without Rain | 5.30 | Enya | 3 | 2 | 2
+CD | The Book of Secrets | 10.39 | Loreena McKennitt | 5 | 4 | 1
+CD | Nickel Creek | 15.03 | Nickel Creek | 0 | 2 | 3
+CD | Christ is My Hope | 5.83 | Innocence Mission | 0 | 1 | 4
+CD | I'm Staying Out | 15.75 | Caitlin Cary | 5 | 2 | 4
+DVD | The Lord of the Rings - The Two Towers | 13.35 | New Line | 5 | 3 | 4
+DVD | Star Wars Epsisode I - The Phantom Menace | 19.77 | Twentieth Century Fox | 3 | 3 | 2
+DVD | Harry Potter and The Sorcerers Stone | 9.36 | Warner Brothers | 4 | 4 | 3
+DVD | Finding Nemo | 10.93 | Pixar | 5 | 5 | 1
+DVD | The Matrix Reloaded | 11.09 | Warner Brothers | 4 | 5 | 1
+DVD | Raiders of the Lost Ark | 11.64 | Paramount | 3 | 4 | 1
+DVD | Sleeping Beauty | 17.97 | Disney | 0 | 0 | 4
+DVD | The Lion King | 17.25 | Disney | 0 | 0 | 5
+DVD | The Matrix | 9.84 | Warner Brothers | 3 | 5 | 0
+DVD | The Blues Brothers | 6.61 | Universal | 3 | 2 | 5
+DVD | Caddyshack | 19.51 | Warner Brothers | 3 | 1 | 4
+DVD | Stripes | 17.20 | Columbia/Tristar | 0 | 1 | 0
+DVD | Blazing Saddles | 14.60 | Warner Brothers | 2 | 3 | 0
+DVD | Animal House | 14.63 | Universal | 2 | 2 | 4
+DVD | Fletch | 6.02 | Univeral | 2 | 5 | 4
+DVD | Trading Places | 19.14 | Paramount | 4 | 0 | 1
+DVD | National Lampoon's Vacation | 15.17 | Twentieth Century Fox | 2 | 1 | 0
+DVD | Vertigo | 7.03 | Universal | 0 | 2 | 5
+DVD | North by Northwest | 6.04 | Universal | 2 | 1 | 3
+DVD | Toy Story | 14.72 | Pixar | 0 | 4 | 2
+DVD | Monsters Inc. | 18.10 | Pixar | 3 | 3 | 4
