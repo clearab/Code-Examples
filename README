@@ -1,0 +1,9 @@
+Boggle Board Package:
+  Contains: BoggleMain.java
+  	    BoggleBoard.java
+            Dictionary.java
+	    words.txt
+	    board.txt
+  Instructions: Ensure that all files are in the same containing folder, compile and run BoggleMain.
+
+
